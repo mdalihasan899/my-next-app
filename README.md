@@ -34,5 +34,5 @@ A polished, responsive mini eCommerce app built with Next.js (App Router), NextA
 - `/manage` — Protected Manage Products (table/grid with View/Delete)
 
 ## Demo
-- Frontend: https://your-vercel-app.vercel.app
+- Frontend: [https://your-vercel-app.vercel.app](https://my-next-app-three-orpin.vercel.app/)
 - Backend: https://your-backend-host.com
